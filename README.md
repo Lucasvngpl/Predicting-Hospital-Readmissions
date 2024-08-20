@@ -6,4 +6,4 @@ The decision tree model indicates the highest importance of time spent in the ho
 
 This project has implications for identifying readmission factors enables targeted interventions, reducing post-discharge complications and enhancing patient outcomes.
 
-The original project can be found from this medium article "https://medium.com/@uraza/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07".
+The original project can be found in this medium article "https://medium.com/@uraza/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07", but it only contains snippets of code so be wary about copying everything from it and expecting the same results.
